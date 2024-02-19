@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757810367394",
+    "project_id": "prueba-basedatos-storage",
+    "storage_bucket": "prueba-basedatos-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757810367394:android:473702633d5b21ca6cc0fb",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorageprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQTtay67-_0cF9gVYFy6LmJMeBwVoe2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
